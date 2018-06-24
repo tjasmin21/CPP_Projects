@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GitHubProjekte\CPP_Projects\CMakeBasics\CMakeBasics\CMakeBasics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GitHubProjekte\CPP_Projects\CMakeBasics\CMakeBasics\CMakeBasics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GitHubProjekte\CPP_Projects\CMakeBasics\CMakeBasics\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{89D5FD92-6E7C-3A2E-AAE1-4781E5C7F179}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C81B584A-35D3-32A6-8122-A25D45A9217A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

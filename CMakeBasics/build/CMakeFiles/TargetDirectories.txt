@@ -1,0 +1,3 @@
+D:/GitHubProjekte/CPP_Projects/CMakeBasics/build/CMakeFiles/ALL_BUILD.dir
+D:/GitHubProjekte/CPP_Projects/CMakeBasics/build/CMakeFiles/ZERO_CHECK.dir
+D:/GitHubProjekte/CPP_Projects/CMakeBasics/build/CMakeBasics/CMakeFiles/CMakeBasics.dir
